@@ -2,6 +2,8 @@
 
 A collection of images with well-defined sizes to test UI layouts.
 
+![Overview](overview.png)
+
 ## Motivation
 
 I work on UI layouts on various platforms. I often need to have a set of images with well-defined sizes to test UI layouts. The images need to stretch the capabilities of the systems that I am working on. Does the system behave well with all portrait and landscape layouts? How about aspect ratios: square, tall, wide, etc?
